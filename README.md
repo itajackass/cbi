@@ -1,6 +1,6 @@
 # Libreria CBI
 
-Libreria dedicata alla gestione dello standard CBI (Corporate Banking Interbancario), in particolare per la lettura e la generazione del formato relativo ai pagamenti RiBa.
+Libreria dedicata alla gestione dello standard CBI (Corporate Banking Interbancario), in particolare per la lettura e la generazione del formato relativo ai pagamenti RiBa. Fork da devcode-it/cbi
 
 La documentazione per la gestione del formato RiBa deriva dal seguente documento: <https://www.cracantu.it/files/STANDARD_CBI_AREA_INCASSI-RIBA-REL_5_01.pdf>.
 
