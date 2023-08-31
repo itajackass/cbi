@@ -1,0 +1,29 @@
+{
+    "name": "itajackass/cbi",
+    "description": "Libreria per la gestione del formato CBI per pagamenti RiBa. fork da devcode-it/cbi",
+    "license": "GPL-3.0",
+    "authors": [{
+        "name": "GLR",
+        "email": "lodirizzini.giuseppe@gmail.com"
+    }],
+    "type": "library",
+    "require": {
+        "php": ">=7.1"
+    },
+    "require-dev": {
+        "friendsofphp/php-cs-fixer": "^2.18",
+        "nesbot/carbon": "^2.45",
+        "phpunit/phpunit": "^9.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "DevCode\\CBI\\": "src/"
+        }
+    },
+    "config": {
+        "sort-packages": true,
+        "optimize-autoloader": true,
+        "apcu-autoloader": true,
+        "prefer-stable": true
+    }
+}
